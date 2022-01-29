@@ -4,8 +4,8 @@
   "image": "https://raw.githubusercontent.com/PatrickGhara/Files/master/total.png",
   "attributes": [
     {
-      "trait_type": 'color',
-      "value": 'red'
+      "trait_type": "color",
+      "value": "red"
     }
   ]
 }
