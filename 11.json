@@ -1,0 +1,11 @@
+{
+  "name": "Audi A4 - CRYPTO CARS",
+  "description": "Macchina sportiva",
+  "image": "https://raw.githubusercontent.com/PatrickGhara/Files/master/total.png",
+  "attributes": [
+    {
+      trait_type: 'color',
+      value: 'red'
+    }
+  ]
+}
