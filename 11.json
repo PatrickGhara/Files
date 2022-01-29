@@ -4,6 +4,10 @@
   "image": "https://raw.githubusercontent.com/PatrickGhara/Files/master/total.png",
   "attributes": [
     {
+      "trait_type": "card_template",
+      "value": "04fd008aded14be4bf7d9ad41abb917f"
+    },
+    {
       "trait_type": "color",
       "value": "red"
     }
